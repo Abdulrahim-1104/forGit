@@ -1,3 +1,4 @@
 git add -A -- for all untracked files
 git add . -- for all files in the current dir
 git add .*txt -- for specific file type in the curr dir
+git add -u -- for all modified files
